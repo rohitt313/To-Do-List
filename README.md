@@ -4,16 +4,6 @@ This project implements the Front-End for a simple To-Do List web application, u
 It includes the login page and the general UI of the app. <br/>
 The login authentication logic and the tasks database for each user are not implemented, since this project aims to be a Front-End study only.
 
-## Demonstration
-
-
-https://user-images.githubusercontent.com/122649188/214991561-d29b14eb-560a-4ba4-aa12-0656278d3fc8.mp4
-
-
-
-## Inspiration
-The login page was inspired in [this design](https://dribbble.com/shots/17564792-Log-in-page-Untitled-UI/attachments/12710737?mode=media) by Jordan Hughes.
-The home page was inspired in [this design](https://dribbble.com/shots/14440819-KosmoTime-Task-Manager/attachments/6121947?mode=media) by Mik Skuza.
 
 ## Features
 • Login page, including Sign In button, which redirects to the main application; <br/>
@@ -32,7 +22,7 @@ If you want to try this project yourself:
 1. Install Node on your machine, via https://nodejs.org/en/.
 2. Install Yarn on your machine via terminal command: `sudo npm install -g yarn`
 3. Install Git on your machine, via https://git-scm.com/downloads.
-4. Clone this repository to your machine. (more on how to do this [here](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository))
+4. Clone this repository to your machine. 
 5. Run ```yarn install``` on the terminal, inside the folder where you downloaded the project, to install all used dependencies.
 6. Run `yarn start` to run the project on your browser.
 
